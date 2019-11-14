@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573720680 source:d:\12 c fereasca morge sa-l deschiz ca nu stiu ce fac cu tine\brainfuck compiler\main.cpp
+	<iostream>
+	"compiler.h"
+
+1573721082 d:\12 c fereasca morge sa-l deschiz ca nu stiu ce fac cu tine\brainfuck compiler\compiler.h
+	<string>
+	<vector>
+	<fstream>
+	<stack>
+
